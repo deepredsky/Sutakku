@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+	background-color: #F2F2F2;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+	.hidden {
+		visibility: hidden;
+	}
+
+	.container {
+		margin: 30px auto;
+		width: 750px;
+	}
+
+	h1 {
+		text-align: center;
+	}
